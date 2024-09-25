@@ -1,4 +1,4 @@
-# HW8 Cache Simulator
+# Cache Simulator
 
 This project is a write-through, no write allocate and write-back, write allocate cache simulator. The cache is dynamically allocated to support different block sizes, number of sets, and associativity.
 
@@ -56,7 +56,7 @@ Misses: 4
 Memory References: 4
 ```
 
-Sample inputs are provided as `.txt` files
+Sample inputs are provided as `.txt` files in [inputs/](inputs/)
 
 ## Known Problems
 
